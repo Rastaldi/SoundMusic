@@ -7,3 +7,5 @@
 > - Venta de discos en **HTML** (sin funcionalidad).
 > - Reproductor de audio en **HTML**
 > - 4 Biografias con reproduccion de audio y Slider de discografia con **CSS3.**
+
+Visualiza una DEMO [aquí](http://jorgeariza.zz.mu/SoundMusic/index.html)
