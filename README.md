@@ -1,11 +1,11 @@
+
 # SoundMusic
->Página HTML/CSS/Javascript realizada para la asignatura de Diseño de Interfaces Web durante el curso de Desarrollo de Aplicaciones Web. 
->Es una web sobre noticias musicales con páginas dedicadas a artistas concretos con reproduccion de audio y video.
+Page HTML/CSS/Javascript for the subject Website Design Interfaces for Higher Level Education Cycle (CFGS) of Web Application Development. It is a website about music news with pages dedicated to specific artists with audio and video playback.
 
-###Contenido
-> - Un carrusel de noticias hecho con **Javascript.**
-> - Venta de discos en **HTML** (sin funcionalidad).
-> - Reproductor de audio en **HTML**
-> - 4 Biografias con reproduccion de audio y Slider de discografia con **CSS3.**
+###Content
+> - A carousel of news made with Javascript.
+> - Selling albums in HTML (no functionality).
+> - Audio in HTML
+> - 4 biographies with audio playback and Preview Slider with CSS3.
 
-Visualiza una DEMO [aquí](http://jorgeariza.zz.mu/SoundMusic/index.html)
+View a DEMO [here](http://jorgeariza.zz.mu/SoundMusic/index.html)
